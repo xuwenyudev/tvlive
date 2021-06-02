@@ -1,7 +1,7 @@
 asgiref==3.2.3
 Django==3.0.3
 django-markdown-deux==1.0.5
-markdown2==2.3.8
+markdown2==2.4.0
 pytz==2019.3
 sqlparse==0.3.0
 virtualenv==16.7.9
